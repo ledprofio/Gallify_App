@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>735435371367-3k5m6iuv244v4rqmqa4mb8dumjcfj8th.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.735435371367-3k5m6iuv244v4rqmqa4mb8dumjcfj8th</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8fjdPiVo8krCyNJev-NrtnPp1LtPBYxY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>735435371367</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Tejvir-Mann.Spotify</string>
+	<key>PROJECT_ID</key>
+	<string>fity-2b0cb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fity-2b0cb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:735435371367:ios:7586c0adc4a623a603f5c2</string>
+</dict>
+</plist>
